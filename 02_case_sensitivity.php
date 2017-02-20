@@ -12,12 +12,12 @@ if($waarde == 3) {
 echo "<br>";
 echo '$waarde';
 echo "<br>";
-echo "$waarde";
+echo '$waarde';
 echo "<br>";
 
 if($val == null) {
     echo "$val is not defined.";
-}
+}elseif
 
 // Print de string "De waarde van $waarde is 8." door maar 1 keer gebruik te maken v.d. concatentie-operator en de juiste soort quotes: single (') of double (").
 
